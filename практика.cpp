@@ -6,7 +6,7 @@
 //{
 //    setlocale(0, "Rus");
 //    int;
-//    short int a, b, result;
+//     int a, b, result;
 //    cout << "Первое число" << endl; 
 //    cin >> a;
 //    cout << " Второе число" << endl;
@@ -49,7 +49,7 @@
 //int main()
 //{
 //    setlocale(0, "rus");
-//    short int monday, tuesday, wednesday, thursday, friday, saturday, sunday;
+//    int monday, tuesday, wednesday, thursday, friday, saturday, sunday;
 //    int choice;
 //    cout << "Какой день интересует?" << endl;
 //    cin >> choice;
